@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ede1304c2e3962944934976e64fc8e9a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151986
+  packageName: 'Creator Kit: Beginner Code | URP'
+  packageVersion: 2.0
+  assetPath: Assets/Creator Kit - Beginner Code/Scripts/Items/Effects/VampiricWeaponEffect.cs
+  uploadId: 690058

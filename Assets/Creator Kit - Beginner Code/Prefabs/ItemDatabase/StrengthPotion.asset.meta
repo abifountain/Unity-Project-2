@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a805275c5a3eaf4da6dfc4a97ccf55f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151986
+  packageName: 'Creator Kit: Beginner Code | URP'
+  packageVersion: 2.0
+  assetPath: Assets/Creator Kit - Beginner Code/Prefabs/ItemDatabase/StrengthPotion.asset
+  uploadId: 690058

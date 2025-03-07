@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8d9ee3d9a3ec176468eb42ac6446aaab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151986
+  packageName: 'Creator Kit: Beginner Code | URP'
+  packageVersion: 2.0
+  assetPath: Assets/Creator Kit - Beginner Code/Scripts/CharacterSystem/StatSystem.cs
+  uploadId: 690058

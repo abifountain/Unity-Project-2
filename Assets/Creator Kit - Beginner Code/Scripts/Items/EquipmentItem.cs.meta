@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 640b52b005f736744b3aabdfb8f24abb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151986
+  packageName: 'Creator Kit: Beginner Code | URP'
+  packageVersion: 2.0
+  assetPath: Assets/Creator Kit - Beginner Code/Scripts/Items/EquipmentItem.cs
+  uploadId: 690058

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e215ed96b8f920044befb41e98a61e40
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151986
+  packageName: 'Creator Kit: Beginner Code | URP'
+  packageVersion: 2.0
+  assetPath: Assets/Creator Kit - Beginner Code/Scripts/VFXTypes.cs
+  uploadId: 690058

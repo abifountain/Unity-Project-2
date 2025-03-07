@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a85827f80a02c994a8c358a4eab94d24
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151986
+  packageName: 'Creator Kit: Beginner Code | URP'
+  packageVersion: 2.0
+  assetPath: Assets/Creator Kit - Beginner Code/Art/Shaders/SeeThrough.shader
+  uploadId: 690058

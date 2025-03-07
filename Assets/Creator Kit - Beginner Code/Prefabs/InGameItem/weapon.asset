@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5111760768338058146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4328ae422ce5301458c49f6393793aff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Description: Burrrrrrr
+  damage: 3
+  time: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a96cf71494313b42b0e2459b8aa90d2, type: 3}
+  m_Name: weapon
+  m_EditorClassIdentifier: 
+  ItemName: Ace of Spades
+  ItemSprite: {fileID: 21300000, guid: 4ebe3495b584a3f47bb652e3c90d7480, type: 3}
+  Description: Not to be confused with the card
+  WorldObjectPrefab: {fileID: 5482170467533448303, guid: 56ca1676619f33d48b134bb4a8b721c8,
+    type: 3}
+  Slot: 666
+  MinimumStrength: 0
+  MinimumAgility: 0
+  MinimumDefense: 0
+  EquippedEffects: []
+  HitSounds:
+  - {fileID: 8300000, guid: 553816e138cf8114d8a16446c1e323d6, type: 3}
+  SwingSounds:
+  - {fileID: 8300000, guid: 8106396419248144e98bf39bd251772e, type: 3}
+  Stats:
+    Speed: 1
+    MinimumDamage: 8
+    MaximumDamage: 12
+    MaxRange: 3
+  AttackEffects:
+  - {fileID: -5111760768338058146}

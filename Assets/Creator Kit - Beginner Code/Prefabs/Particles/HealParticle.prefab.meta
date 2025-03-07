@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53372cc39819ae04b8baa735d54f3df5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151986
+  packageName: 'Creator Kit: Beginner Code | URP'
+  packageVersion: 2.0
+  assetPath: Assets/Creator Kit - Beginner Code/Prefabs/Particles/HealParticle.prefab
+  uploadId: 690058

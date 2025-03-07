@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 882b57052dc30564ba4f68e73e15a7f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151986
+  packageName: 'Creator Kit: Beginner Code | URP'
+  packageVersion: 2.0
+  assetPath: Assets/Creator Kit - Beginner Code/Scripts/Editor/DocUnzip/OpenDocumentation.cs
+  uploadId: 690058

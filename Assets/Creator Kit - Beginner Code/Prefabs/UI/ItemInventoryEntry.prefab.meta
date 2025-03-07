@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db5428d712d0daf44acb8d323486c3fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151986
+  packageName: 'Creator Kit: Beginner Code | URP'
+  packageVersion: 2.0
+  assetPath: Assets/Creator Kit - Beginner Code/Prefabs/UI/ItemInventoryEntry.prefab
+  uploadId: 690058

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 640b52b005f736744b3aabdfb8f24abb, type: 3}
+  m_Name: Gem of Speed
+  m_EditorClassIdentifier: 
+  ItemName: Gem of Speed
+  ItemSprite: {fileID: 21300000, guid: 56750210f0d79d942a951491faa04889, type: 3}
+  Description: Running away has never been easier
+  WorldObjectPrefab: {fileID: 7669856486780617717, guid: 5a2ef7db5b7c1db4a8adf9e71ea2e879,
+    type: 3}
+  Slot: 4
+  MinimumStrength: 0
+  MinimumAgility: 0
+  MinimumDefense: 0
+  EquippedEffects:
+  - {fileID: 7080179376248701106}
+--- !u!114 &7080179376248701106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 637dc92fbc74c20469bb81e3b2ed1851, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Description: Agility +2
+  newModifier:
+    ModifierMode: 1
+    Stats:
+      health: 0
+      strength: 0
+      defense: 0
+      agility: 2
+      elementalProtection: 00000000000000000000000000000000
+      elementalBoosts: 00000000000000000000000000000000

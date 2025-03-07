@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95bc5ffaf9ba2ab468896a77a6bd0c88
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151986
+  packageName: 'Creator Kit: Beginner Code | URP'
+  packageVersion: 2.0
+  assetPath: Assets/Creator Kit - Beginner Code/Prefabs/UI/DamageText.prefab
+  uploadId: 690058
